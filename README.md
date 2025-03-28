@@ -3,7 +3,7 @@ A Save editor for AC:PCC
 
 ![v4](https://github.com/user-attachments/assets/525f5694-e308-45a8-9d8c-621611a78955)
 ![v5](https://github.com/user-attachments/assets/338dc215-6378-4da7-af62-c45bd7a3025f)
-![image](https://github.com/user-attachments/assets/242b12f7-4e67-407e-82f9-15290ff2929a)
+![image](https://github.com/user-attachments/assets/f2f23df9-1b55-476f-99e0-fe1c217b2b0a)
 
 ## Installation
 ### Windows
